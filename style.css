@@ -1,0 +1,44 @@
+body{
+   font-family: 'Hanken Grotesk', sans-serif;
+    
+}
+
+
+.card{
+    display: flex;
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    margin-top: 60px;
+}
+
+.left{ 
+    background-color:   hsl(252, 100%, 67%);
+    width: 300px;
+    color: white;
+    
+
+}
+.content{
+    text-align: center;
+    padding: 40px;
+    padding-top: 0;
+}
+.circle{
+    background-color: hsla(256, 72%, 46%, 1); 
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    text-align: center;
+
+     margin-left: 40px;
+     
+    
+}
+.circle h1{
+    font-size: 60px;
+    padding-top: 20px;
+}
+.circle p{
+    margin-top: -20px;
+}
